@@ -1,0 +1,14 @@
+{
+  "name": "replacement",
+  "version": "0.0.0",
+  "description": "replacement",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.12.3"
+  }
+}
